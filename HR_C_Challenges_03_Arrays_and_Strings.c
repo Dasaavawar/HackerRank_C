@@ -1,4 +1,4 @@
-// HackerRank - C - Introduction - III - Arrays and Strings
+// HackerRank - C - Challenges - III - Arrays and Strings
 
 
 /* 1. Arrays and Strings - 1D Arrays in C */
