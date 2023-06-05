@@ -1,4 +1,4 @@
-// HackerRank - C - Introduction - I - Strings
+// HackerRank - C - Challenges - I - Introduction
 
 
 /* 1. Introduction - "Hello World!" in C */
