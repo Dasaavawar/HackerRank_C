@@ -1,4 +1,4 @@
-// HackerRank - C - Introduction - II - Conditionals and Loops
+// HackerRank - C - Challenges - II - Conditionals and Loops
 
 
 /* 1. Conditionals and Loops - Conditional Statements in C */
